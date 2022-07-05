@@ -1,1 +1,1 @@
-# StarGAN
+# SpotTheBot
